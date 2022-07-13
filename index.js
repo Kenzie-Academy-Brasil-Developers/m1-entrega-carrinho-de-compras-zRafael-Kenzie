@@ -1,23 +1,23 @@
 let productsCart = [
     {
         id: 0,
-        name: "cebola",
-        price: 2.00,
+        name: "Leite",
+        price: 7.00,
     },
     {
         id: 1,
-        name: "cachaca",
+        name: "Nescau",
         price: 5.00,
     },
     {
         id: 2,
-        name: "refri",
-        price: 1.00,
+        name: "coca-cola",
+        price: 8.00,
     },
     {
         id: 3,
         name: "macarrao",
-        price: 1.00,
+        price: 4.00,
     },
 ]
 let body = document.querySelector('body')
